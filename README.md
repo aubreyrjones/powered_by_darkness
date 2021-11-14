@@ -2,7 +2,7 @@ This is not a standalone game. It includes no lore, setting, or
 history. It contains only brief and dry descriptions of powers, and no
 coherent description of vampiric existence. Additionally, it is
 incomplete, as it includes only the powers we've used in our game so
-far. These are essentially just very complete character sheets.
+far. These are essentially just very intricate character sheets.
 
 To play this game you need a copy of Vampire: the Masquerade, 20th
 Anniversary Edition. You can find that
