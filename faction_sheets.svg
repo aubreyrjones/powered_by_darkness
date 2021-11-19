@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg1227"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="faction_sheets.svg">
+  <defs
+     id="defs1221" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="252.7148"
+     inkscape:cy="537.38598"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="3840"
+     inkscape:window-height="2080"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:guide-bbox="true"
+     inkscape:measure-start="350.523,973.37"
+     inkscape:measure-end="350.523,948.786"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="167.64481,270.03608"
+       orientation="0,1"
+       id="guide2181"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="169.5157,263.82915"
+       orientation="0,1"
+       id="guide2183"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="174.527,257.53736"
+       orientation="0,1"
+       id="guide2185"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.8404255,270.03608"
+       orientation="1,0"
+       id="guide2217"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2237"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35" />
+    <sodipodi:guide
+       position="97.286108,251.18736"
+       orientation="0,1"
+       id="guide2243"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="89.668927,244.83736"
+       orientation="0,1"
+       id="guide2245"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="93.738095,238.48736"
+       orientation="0,1"
+       id="guide2247"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1224">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)">
+    <g
+       id="g5806"
+       transform="translate(-1.0583333,1.5875)">
+      <text
+         id="text1774"
+         y="29.08062"
+         x="8.2734632"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35277778"
+           y="29.08062"
+           x="8.2734632"
+           id="tspan1772"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         id="text1782"
+         y="37.404217"
+         x="8.2734632"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35277778"
+           y="37.404217"
+           x="8.2734632"
+           id="tspan1780"
+           sodipodi:role="line">Nature/Mission</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3188"
+         d="M 20.274208,29.871683 H 211.22859"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3188-2"
+         d="m 39.952745,37.595026 171.106765,0.07109"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3623"
+         width="205.50323"
+         height="86.798637"
+         x="6.3890018"
+         y="21.689266" />
+    </g>
+    <g
+       id="g5870"
+       transform="translate(-1.0583333,91.545855)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="8.2734632"
+         y="29.08062"
+         id="text5858"><tspan
+           sodipodi:role="line"
+           id="tspan5856"
+           x="8.2734632"
+           y="29.08062"
+           style="stroke-width:0.35277778">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="8.2734632"
+         y="37.404217"
+         id="text5862"><tspan
+           sodipodi:role="line"
+           id="tspan5860"
+           x="8.2734632"
+           y="37.404217"
+           style="stroke-width:0.35277778">Nature/Mission</tspan></text>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 20.274208,29.871683 H 211.22859"
+         id="path5864"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 39.952745,37.595026 171.106765,0.07109"
+         id="path5866"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <rect
+         y="21.689266"
+         x="6.3890018"
+         height="86.798637"
+         width="205.50323"
+         id="rect5868"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-1.0583333,181.50423)"
+       id="g5886">
+      <text
+         id="text5874"
+         y="29.08062"
+         x="8.2734632"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35277778"
+           y="29.08062"
+           x="8.2734632"
+           id="tspan5872"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         id="text5878"
+         y="37.404217"
+         x="8.2734632"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611059px;line-height:125%;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.35277778"
+           y="37.404217"
+           x="8.2734632"
+           id="tspan5876"
+           sodipodi:role="line">Nature/Mission</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5880"
+         d="M 20.274208,29.871683 H 211.22859"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5882"
+         d="m 39.952745,37.595026 171.106765,0.07109"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000002;stroke-width:0.35277778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.41111112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5884"
+         width="205.50323"
+         height="86.798637"
+         x="6.3890018"
+         y="21.689266" />
+    </g>
+  </g>
+</svg>
